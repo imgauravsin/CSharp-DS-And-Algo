@@ -10,7 +10,7 @@ None
 Display the resulting tree
 
 #### Sample Input
-``
+```
 
 3
 2
