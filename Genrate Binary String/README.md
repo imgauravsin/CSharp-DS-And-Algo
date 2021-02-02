@@ -4,7 +4,8 @@ that can be formed by replacing each wildcard character by ‘0’ or ‘1’.
 ```
 #### Input Format
 ```
-The first line of input contains a single integer T denoting the number of test cases. Then T test cases follow. Each test case consist of two lines. The first line of each test case consists of a string S.
+The first line of input contains a single integer T denoting the number of test cases. Then T test cases follow. 
+Each test case consist of two lines. The first line of each test case consists of a string S.
 ```
 
 #### Constraints
